@@ -1,8 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/aymaneouikane/aymaneouikane/main/assets/hello-coders.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://raw.githubusercontent.com/aymaneouikane/aymaneouikane/main/assets/dev-working.gif" alt="Workspace" width="40%"/><br> 
-
 <h2>👋 Hey there, I'm Aymane Ouikane</h2>
 
 💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 🎓 Student @ 1337 Coding School  
